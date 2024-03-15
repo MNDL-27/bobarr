@@ -20,8 +20,8 @@
     "graphql": "^15.3.0",
     "graphql-tag": "^2.10.3",
     "isomorphic-unfetch": "^3.0.0",
-    "lodash": "^4.17.19",
-    "next": "^9.5.2",
+    "lodash": "^4.17.21",
+    "next": "^13.5.0",
     "prettysize": "^2.0.0",
     "pure-react-carousel": "^1.27.0",
     "react": "16.13.1",
@@ -33,7 +33,7 @@
     "styled-components": "^5.0.1",
     "styled-reset": "^4.1.2",
     "throttle-debounce": "^2.1.0",
-    "yarn": "^1.22.4"
+    "yarn": "^1.22.13"
   },
   "devDependencies": {
     "@graphql-codegen/add": "^2.0.2",
